@@ -550,7 +550,7 @@ mb pestis-pMT1-all-clustalw-trimal-mrbayes.nex
 
 ```
 
-## Step 8: Coalescent Method Per each Parsimony and Distance Tree
+## Step 8: Coalescent Method Per each ClustalW and Mafft Aligned IQ-Tree
 
 **Completed- Astral per each Clustalw/Trimal/IQ-Tree and Mafft/Trimal/IQ-Tree Alignment
 
