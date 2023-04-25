@@ -552,7 +552,7 @@ mb pestis-pMT1-all-clustalw-trimal-mrbayes.nex
 
 ## Step 8: Coalescent Method on each ClustalW and Mafft-Aligned IQ-Tree
 
-**Completed- Astral per each Clustalw/Trimal/IQ-Tree and Mafft/Trimal/IQ-Tree Alignment
+**Completed- Astral per each Clustalw/Trimal/IQ-Tree and Mafft/Trimal/IQ-Tree Alignment with selecting Antiqua as root**
 
 - Description:  
 
