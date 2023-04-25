@@ -334,7 +334,7 @@ title("pMT clustalw-aligned distance-based tree")
 ```
 
 
-## Step 6: Maximum Likelihood Inference Method Per each Parsimony and Distance Tree
+## Step 6: Maximum Likelihood Inference Method Per each Clustalw and Mafft-Aligned Tree
 
 **Completed- RAxML-NG Maximum Likelihood Tree per each Clustalw/Trimal and Mafft/Trimal Alignment with selecting CP000309.1 as root**
 
@@ -550,7 +550,7 @@ mb pestis-pMT1-all-clustalw-trimal-mrbayes.nex
 
 ```
 
-## Step 8: Coalescent Method Per each ClustalW and Mafft Aligned IQ-Tree
+## Step 8: Coalescent Method on each ClustalW and Mafft-Aligned IQ-Tree
 
 **Completed- Astral per each Clustalw/Trimal/IQ-Tree and Mafft/Trimal/IQ-Tree Alignment
 
